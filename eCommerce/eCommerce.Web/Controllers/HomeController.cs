@@ -15,7 +15,7 @@ namespace eCommerce.Web.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page. testing";
+            ViewBag.Message = "Your application description page. testing testing ";
 
             return View();
         }
